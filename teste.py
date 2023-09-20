@@ -7,5 +7,5 @@ st.markdown('''
 
 arquivo = st.file_uploader(
 	'Suba seu arquivo!'
-	type=['jpg']
+	type=['jpg', 'png']
 ) 
